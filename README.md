@@ -23,13 +23,13 @@
 
 ### 📊 GitHub Stats  
 
-![Gayatri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Gayatri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayatriradkarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GAyatriradkarr&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🏆 GitHub Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Gayatriradkarr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 
 ---
