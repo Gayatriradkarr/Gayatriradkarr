@@ -21,7 +21,14 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Data+%7C+Analytics+%7C+Optimization;Always+Learning+Always+Curious)](https://git.io/typing-svg)
+### 📊 GitHub Stats  
+
+![Gayatri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
