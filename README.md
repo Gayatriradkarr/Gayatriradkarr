@@ -12,11 +12,6 @@
 
 ---
 
-### 🛠️ Tools & Tech I Use  
-🔧 Excel • SQL • Python • Tableau • Power BI • GitHub  
-
----
-
 ### 🛠️ Tech I Work With
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
@@ -25,11 +20,16 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Data+%7C+Analytics+%7C+Optimization;Always+Learning+Always+Curious)](https://git.io/typing-svg)
+
 ---
-![GitHub Snake Light](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+### 🌟 What Drives Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Tech+Enthusiast;Data+%7C+Analytics+%7C+Optimization;Always+Learning+Always+Curious)](https://git.io/typing-svg)
+
 ---
+
 ### 🌟 A Little More About Me  
 ✨ Love to connect tech with creativity  
 ✨ Constantly seeking challenges that push me to grow  
